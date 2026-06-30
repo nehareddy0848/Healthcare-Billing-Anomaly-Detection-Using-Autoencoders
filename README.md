@@ -8,7 +8,7 @@ Data Source: https://www.kaggle.com/datasets/speedoheck/inpatient-hospital-charg
 
 The dataset contains inpatient hospital billing records from hospitals across the United States.
 
-Main columns include:
+Key columns include:
 - DRG Definition  
 - Provider details (ID, name, state, region)  
 - Total Discharges  
